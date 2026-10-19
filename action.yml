@@ -4,4 +4,4 @@ runs:
   using: composite
   steps:
     - shell: bash
-      run: echo "DEP-MARKER-V1"
+      run: echo "DEP-MARKER-V2"
