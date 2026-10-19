@@ -1,0 +1,7 @@
+name: LockDep
+description: lockfile lab dependency
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: echo "DEP-MARKER-V1"
